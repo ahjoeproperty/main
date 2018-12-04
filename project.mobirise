@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ahjoe100",
-    "currentPage": ".html",
+    "currentPage": "main.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -979,7 +979,7 @@
         }
       ]
     },
-    ".html": {
+    "main.html": {
       "settings": {
         "meta_descr": "Public Figure l Personal Coach l Property Consultant",
         "title": "ahjoe.my",
