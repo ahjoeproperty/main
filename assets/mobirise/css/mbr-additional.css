@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.25rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2rem;
 }
 .form-control,
 .form-control:focus {
@@ -4566,8 +4566,22 @@ body {
 }
 .cid-rcvpDgjbIT {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
+}
+.cid-rd430Z8wSs {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
+}
+.cid-rd430Z8wSs .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rd430Z8wSs .mbr-section-subtitle DIV {
+  color: #ffffff;
+}
+.cid-rd430Z8wSs H2 {
+  color: #ffffff;
 }
 .cid-rcvpDmj6IN {
   padding-top: 15px;
@@ -4641,8 +4655,19 @@ body {
 }
 .cid-rcvpDpzo1L {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #bddfe7;
+}
+.cid-rd42fAP6lB {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #bddfe7;
+}
+.cid-rd42fAP6lB .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rd42fAP6lB .mbr-section-subtitle I {
+  color: #232323;
 }
 .cid-rcvpDotWqU {
   padding-top: 15px;
@@ -4718,18 +4743,18 @@ body {
   color: #000000;
   text-align: left;
 }
+.cid-rcvpDsi7nw {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
 .cid-rcvpDrAL74 {
-  padding-top: 45px;
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rcvpDrAL74 .mbr-section-subtitle {
   color: #232323;
-}
-.cid-rcvpDsi7nw {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
 }
 .cid-rcvpDsVTh7 {
   padding-top: 30px;
